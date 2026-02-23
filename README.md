@@ -25,6 +25,7 @@ Durante o meu percurso, já desenvolvi bases de dados complexas tanto em formato
 <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align="left" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 <img align="left" alt="VS Code" title="VS Code" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="left" alt="StarUML" title="StarUML" width="30px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/uml/666666" />
 <br/>
 <br/>
 
