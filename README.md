@@ -38,5 +38,8 @@ Durante o meu percurso, já desenvolvi bases de dados complexas tanto em formato
 
 ### 📊 Análise de Dados e BI
 <img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/power-bi.png" />
+<img align="left" alt="Power Query" title="Power Query" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/power-query.png" />
+<img align="left" alt="DAX" title="DAX (Data Analysis Expressions)" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/fluency/48/data-analytics.png" />
+<img align="left" alt="Linguagem M" title="Linguagem M (Power Query)" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/fluency/48/m.png" />
 <br/>
 <br/>
